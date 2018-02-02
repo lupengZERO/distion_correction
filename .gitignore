@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.ipch
+*.opendb
+*.db
+*.tlog
+*.tlog
+*.obj
+*.idb
+*.pdb
+*.obj
+*.ilk
+*.log
+/TextMapping/.vs/Texture/v15/.suo
+/TextMapping/DistCorrect/build_x64
+/TextMapping/Debug
